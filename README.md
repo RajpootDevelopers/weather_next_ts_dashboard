@@ -34,3 +34,21 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+<!-- Project Description :  -->
+Introducing the Weather Dashboard: your comprehensive weather companion offering today's details and the last 7-day forecast, including visibility, humidity, wind speed, air pressure, sunrise, sunset, and temperature variations.
+
+Powered by Next.js and TypeScript, with responsive design facilitated by Tailwind CSS, the Weather Dashboard ensures seamless accessibility across devices. Leveraging the OpenWeatherMap API, users can search for weather information for any location on Earth.
+
+Key Dependencies:
+
+axios: for efficient data fetching from the OpenWeatherMap API.
+clsx: for dynamic class composition for responsive styling.
+date-fns: for convenient date manipulation and formatting.
+jotai: for state management, ensuring a smooth and reactive user experience.
+react-icons: for incorporating intuitive and visually appealing weather icons.
+react-query: for optimized data fetching and caching, enhancing performance.
+tailwind-merge: for streamlined management of Tailwind CSS class names.
+tailwindcss-animate: for implementing captivating animations to enhance user engagement.
+With its robust feature set and utilization of cutting-edge technologies, the Weather Dashboard delivers accurate and detailed weather information while maintaining an intuitive user interface. Whether planning daily activities or exploring new destinations, users can rely on the Weather Dashboard for up-to-date weather insights.
